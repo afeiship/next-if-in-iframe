@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-is-in-iframe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Identify if a webpage is being loaded inside an iframe or directly into the browser window.",
   "homepage": "https://github.com/afeiship/next-is-in-iframe",
   "author": {
